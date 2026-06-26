@@ -203,6 +203,8 @@ nav a:hover {
   grid-template-columns: 1fr 1fr;
   gap: 80px;
   align-items: center;
+  padding: 20px;
+  margin-bottom: 5px;
 }
 
 .about-image img {
